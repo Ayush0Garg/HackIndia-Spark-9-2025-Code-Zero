@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wasteManagement.wastify.WastifyApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.79 s -- in com.wasteManagement.wastify.WastifyApplicationTests
