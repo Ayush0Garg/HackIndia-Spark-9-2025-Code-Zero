@@ -1,10 +1,10 @@
 # HackIndia-Spark-9-2025-Code-Zero
 The submission for spark 9 hackathon 2025
 
-To run the Front-end
+To run the Front-end :
 npm run dev
 
-to run Back-end
+to run Back-end : 
 java -jar wastify-0.0.1-SNAPSHOT.jar
 
 The following is a waste management system which takes the image from an android app
