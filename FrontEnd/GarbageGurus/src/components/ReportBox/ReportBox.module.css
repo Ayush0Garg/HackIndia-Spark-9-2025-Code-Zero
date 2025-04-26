@@ -1,0 +1,37 @@
+.main_container{
+    width:11rem;
+    height:10rem;
+    padding:1rem;
+    border-radius: 1rem;
+    margin-right:1.5rem;
+    margin-bottom: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.icon_container{
+    padding:0.3rem;
+    width:3rem;
+    height:3rem;
+    border-radius: 50%;
+    margin-bottom: 2rem;
+    color:#fff;
+    font-size:1.5rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.data_container p{
+    margin-bottom: 0.25rem;
+  
+}
+
+.attribute{
+    font-size:0.9rem;
+}
+
+.value{
+    font-size:1.4rem;
+    font-weight:600;
+}
+

@@ -1,0 +1,15 @@
+.menu_bar{
+    display:flex;
+    padding:1rem;
+    align-items: center;
+    justify-content: space-between;
+    border-radius:0.5rem;
+    background-color: #234C4C;
+    color:#fff;
+    font-size:1rem;
+    font-weight:550;
+}
+
+.menu_bar span{
+    height: 100%;
+}
